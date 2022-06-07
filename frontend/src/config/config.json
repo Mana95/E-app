@@ -1,0 +1,4 @@
+{
+    "backendPort":"http://localhost:4000",
+    "prodfront":"test"
+}

@@ -1,0 +1,9 @@
+{
+    "connectionString":"mongodb://localhost/interview-db",
+    "secret":"JWTTOKEN123",
+    "prodEnvironment":"http://localhost:4200",
+    "trailEnvironment":"http://localhost:4201",
+    "PORT":3000,
+    "bodyParser":"10mb"
+}
+
